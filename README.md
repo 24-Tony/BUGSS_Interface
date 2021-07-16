@@ -3,6 +3,6 @@
 
 ![Interface Logo](logo.png)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?filepath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark)
 
-https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb
+https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?filepath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark
