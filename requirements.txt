@@ -11,11 +11,13 @@ defusedxml==0.6.0
 entrypoints==0.3
 idna==3.1
 ipykernel==5.4.3
+ipympl==0.7.0
 ipython==7.20.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
 Jinja2==2.11.3
+json5==0.9.6
 jsonschema==3.2.0
 jupyter-client==6.1.11
 jupyter-core==4.7.1
