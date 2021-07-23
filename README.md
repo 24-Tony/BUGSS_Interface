@@ -3,8 +3,13 @@
 
 ![Interface Logo](logo.png)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.1.1.ipynb%3Fvoila-theme%3Ddark)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.2.5.ipynb%3Fvoila-theme%3Ddark)
 
+V 1.2.5:
+https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.2.5.ipynb%3Fvoila-theme%3Ddark
+
+V 1.1.1:
 https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.1.1.ipynb%3Fvoila-theme%3Ddark
 
+Updating:
 https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark
