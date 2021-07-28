@@ -3,7 +3,7 @@
 
 Click the image to run:
 
-[![Binder](bugsslogo.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.5.0.ipynb%3Fvoila-theme%3Ddark)
+[![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.5.0.ipynb%3Fvoila-theme%3Ddark)
 
 ### Version History:
 
