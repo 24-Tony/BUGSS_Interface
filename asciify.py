@@ -1,6 +1,10 @@
 from PIL import Image
 import sys
 import urllib.request
+#import urllib, cStringIO
+import requests
+#im = Image.open(requests.get(url, stream=True).raw)
+
 ASCII_CHARS = ['.',',',':',';','+','*','?','%','S','#','@']
 #ASCII_CHARS = ['..',',,','::',';;','++','**','??','%%','SS','##','@@']
 ASCII_CHARS = ASCII_CHARS[::-1]
@@ -68,8 +72,7 @@ def Asciify(path,newSize):
             image = Image.open('a.png')
         except:
             try:
-                urllib.request.urlretrieve(path, 'a.'+path[-4:])
-                image = Image.open('a.png')
+                image = Image.open(requests.get(path, stream=True).raw)
             except:
                 print("Unable to find image in",path)
                 #print(e)
@@ -90,8 +93,7 @@ def asciify(path,newSize):
             image = Image.open('a.png')
         except:
             try:
-                urllib.request.urlretrieve(path, 'a.'+path[-4:])
-                image = Image.open('a.png')
+                image = Image.open(requests.get(path, stream=True).raw)
             except:
                 print("Unable to find image in",path)
                 #print(e)
