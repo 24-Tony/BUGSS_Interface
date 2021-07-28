@@ -101,4 +101,4 @@ def asciify(path,newSize):
     image = do(image,newSize)
     print(image)
 def Version():
-    return('Current-1')
+    return('Current-2021-07-28')
