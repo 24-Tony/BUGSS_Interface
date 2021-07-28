@@ -1,5 +1,6 @@
 from PIL import Image
-
+import sys
+import urllib.request
 ASCII_CHARS = ['.',',',':',';','+','*','?','%','S','#','@']
 #ASCII_CHARS = ['..',',,','::',';;','++','**','??','%%','SS','##','@@']
 ASCII_CHARS = ASCII_CHARS[::-1]
@@ -58,24 +59,44 @@ method runner():
 '''
 def Asciify(path,newSize):
     image = None
+    IMG=None
     try:
         image = Image.open(path)
-    except Exception:
-        print("Unable to find image in",path)
-        #print(e)
-        return
+    except:
+        try:
+            urllib.request.urlretrieve(path, 'a.'+path[-3:])
+            image = Image.open('a.png')
+        except:
+            try:
+                urllib.request.urlretrieve(path, 'a.'+path[-4:])
+                image = Image.open('a.png')
+            except:
+                print("Unable to find image in",path)
+                #print(e)
+                return
     image = do(image,newSize)
     return(image)
 
 
 
 def asciify(path,newSize):
+    IMG=None
     image = None
     try:
         image = Image.open(path)
-    except Exception:
-        print("Unable to find image in",path)
-        #print(e)
-        return
+    except:
+        try:
+            urllib.request.urlretrieve(path, 'a.'+path[-3:])
+            image = Image.open('a.png')
+        except:
+            try:
+                urllib.request.urlretrieve(path, 'a.'+path[-4:])
+                image = Image.open('a.png')
+            except:
+                print("Unable to find image in",path)
+                #print(e)
+                return
     image = do(image,newSize)
     print(image)
+def Version():
+    return('Current-1')
