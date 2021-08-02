@@ -4,13 +4,14 @@
 
 Click either image to run:
 
-[![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb%3Fvoila-theme%3Ddark)
-[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/V-1.7.5.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb)
+[![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%202.0.0.ipynb%3Fvoila-theme%3Ddark)
+[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/V-1.7.5.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%202.0.0.ipynb)
 
 ### Version History:
 
 | Version  | DARK THEME | LIGHT THEME |
 |:---------|:-----------|:------------|
+| V 2.0.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%202.0.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%202.0.0.ipynb) |
 | V 1.7.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb) |
 | V 1.5.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.5.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.5.0.ipynb) |
 | V 1.2.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.2.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.2.5.ipynb) |
@@ -21,7 +22,7 @@ Click either image to run:
 LATEST RELEASE:
 
 ```
-https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb
+https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%202.0.0.ipynb
 ```
 
 ```
