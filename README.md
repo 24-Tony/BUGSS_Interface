@@ -6,6 +6,7 @@ Click the image to run:
 [![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb)
 
 ### Version History:
+
 | Version  | DARK THEME | LIGHT THEME |
 |:---------|:-----------|:------------|
 | V 1.7.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.7.5.ipynb) |
@@ -14,7 +15,7 @@ Click the image to run:
 | V 1.1.1: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.1.1.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.1.1.ipynb) |
 | Updating: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb) |
 
-| head1        | head two          | three |
+| Version      | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
