@@ -1,6 +1,6 @@
 # BUGSS_Data_Interface
 
-## A data manipulation interface for an internship with BUGSS
+## An interface to manipulate and view BUGSS data
 
 Click the image to run:
 
