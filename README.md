@@ -11,6 +11,7 @@ Click either image to run:
 
 | Version  | DARK THEME | LIGHT THEME | Known Bugs |
 |:---------|:-----------|:------------|:-----------|
+| V 1.0.1: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.2.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.2.ipynb) | No |
 | V 1.0.1: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.1.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.1.ipynb) | No |
 | V 1.0.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb) | Yes |
 | V 0.7.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.7.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.7.5.ipynb) | Yes |
