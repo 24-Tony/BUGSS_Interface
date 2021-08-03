@@ -5,7 +5,7 @@
 Click either image to run:
 
 [![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark)
-[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/Updating.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb)
+[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/InterfaceQR.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb)
 
 ### Version History:
 
