@@ -26,7 +26,7 @@ Click either image to run:
 LATEST RELEASE:
 
 ```
-https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb
+https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.1.0.ipynb
 ```
 
 ```
