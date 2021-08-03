@@ -4,14 +4,15 @@
 
 Click either image to run:
 
-[![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb%3Fvoila-theme%3Ddark)
-[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/V1.0.0.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb)
+[![Binder](https://bugssonline.org/wp-content/themes/BUGS3/assets/images/bugsslogo-square300.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb%3Fvoila-theme%3Ddark)
+[![Binder](https://raw.githubusercontent.com/24-Tony/BUGSS_Interface/main/Updating.png)](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface.ipynb)
 
 ### Version History:
 
 | Version  | DARK THEME | LIGHT THEME | Known Bugs |
 |:---------|:-----------|:------------|:-----------|
-| V 1.0.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb) | No |
+| V 1.0.1: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.1.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.1.ipynb) | No |
+| V 1.0.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%201.0.0.ipynb) | Yes |
 | V 0.7.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.7.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.7.5.ipynb) | Yes |
 | V 0.5.0: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.5.0.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.5.0.ipynb) | Yes |
 | V 0.2.5: | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.2.5.ipynb%3Fvoila-theme%3Ddark) | [Run](https://mybinder.org/v2/gh/24-Tony/BUGSS_Interface/HEAD?urlpath=%2Fvoila%2Frender%2FInterface-V%200.2.5.ipynb) | Yes |
